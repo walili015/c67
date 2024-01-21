@@ -6,7 +6,7 @@
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
     "adsactivation": true,
-    "modeads": false,
+    "modeads": true,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=xxxxxxx"
   }
