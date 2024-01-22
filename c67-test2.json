@@ -2,7 +2,7 @@
   "AdsController": {
     "adNetwork": "applovinadmob",
     
-    "adsactivation": true,
+    "adsactivation": false,
 
     "adMobAppId": "ca-app-pub-3940256099942544~3347511713",
     "admobOpenads": "ca-app-pub-3940256099942544/5575463023",
