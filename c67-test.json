@@ -3,7 +3,8 @@
     "adNetwork": "applovinadmob",
     
     "adsactivation": true,
-    
+
+    "adMobAppId": "ca-app-pub-3940256099942544~3347511713",
     "admobOpenads": "ca-app-pub-3940256099942544/5575463023",
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
