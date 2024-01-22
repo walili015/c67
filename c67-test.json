@@ -12,6 +12,8 @@
     "testMode": false,
     "unityBanner": "",
     "unityInterstitial": "",
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
     "RatingActive": true
   }
 }
