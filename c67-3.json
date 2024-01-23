@@ -1,10 +1,10 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "adsoff",
 
-    "adMobAppId": "ca-app-pub-3940256099942544~3347511713",
-    "admobOpenads": "ca-app-pub-3940256099942544/5575463023",
-    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "adMobAppId": "ca-app-pub-5719595085985115~3926554527",
+    "admobOpenads": "ca-app-pub-5719595085985115/4379293748",
+    "admobBanner": "ca-app-pub-5719595085985115/4724275655",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
     
