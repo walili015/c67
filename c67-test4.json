@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "applovinopenads",
+    "adNetwork": "adsoff",
 
     "adMobAppId": "ca-app-pub-3940256099942544~3347511713",
     "admobOpenads": "ca-app-pub-3940256099942544/5575463023",
@@ -12,10 +12,10 @@
     "applovinInterstitial": "5f4e2f47bb0a8e8e",
     "ApplovinNative": "e6f95643a1ac0b3d",
     
-    "unityGameId": "",
+    "unityGameId": "5532911",
     "testMode": false,
-    "unityBanner": "",
-    "unityInterstitial": "",
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
     
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
